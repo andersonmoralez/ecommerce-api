@@ -39,9 +39,6 @@ Route::group(['middleware' => 'apiJWT'], function(){
     Route::delete('auth/products/destroy/{product}', 'Api\\ProductController@destroy');
 });
 
-
-
-
 // Route::get('users', 'Api\\UserController@index');
 // Route::get('users', 'Api\\UserController@index')->middleware('auth:api');
 
