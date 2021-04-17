@@ -1,4 +1,4 @@
-How to configuration new user for laravel project:
+How to configuration new user 'mysql' for laravel project:
 
 Define criptography for password:
 
